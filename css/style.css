@@ -12,7 +12,7 @@ body {
   --brand-primary: rgba(244,144,255,1);
   --brand-secondary: rgba(244,144,255,0.3);
   --white-primary: white;
-  --breath-time: 4500ms;
+  --breath-time: 4000ms;
 }
 
 @media (max-width: 424px) {
